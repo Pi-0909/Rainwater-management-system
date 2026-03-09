@@ -8,7 +8,7 @@ PUMP_SEWER_PIN = 18
 SENSOR_TRIGGER_PIN = 21
 SENSOR_ECHO_PIN = 20
 API_KEY = 'dff7a83506cc4f1bbb6111706260202'
-EMPTY_TANK_DISTANCE = 0  # cm, set this manually
+EMPTY_TANK_DISTANCE = 0  # measure the depth, then set the cm manually
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(PUMP_WATER_PIN, GPIO.OUT, initial=GPIO.LOW)

@@ -11,3 +11,8 @@ Here’s how it works:
 
 3. The code also checks if a significant amount of precipitation is expected in the next 2 days (20 mm/hour or higher). If so, it drains all the water into the sewer so that it can receive fresh water as soon as it rains.
 The code also takes care not to overwater the plants, as this is unhealthy for them.
+
+
+
+
+This code is fully open-source and free to use for your own will, including cloning it, editing it and learn from it for your own benefit.

@@ -11,3 +11,8 @@ Het werkt als volgt:
 
 3. De code checkt ook of er heel veel percipitatie aankomt in de volgende 2 dagen (van >20mm/uur of hoger), als dat zo is, dan dumpt het al het water naar de riolen om zodra het regent, nieuwe water te ontvangen.
 De code houd er ook rekening mee om de plantjes niet te veel water te geven omdat dat niet gezond voor hun is.
+
+
+
+
+Deze code is volledig open source en mag vrij worden gebruikt voor eigen doeleinden, inclusief het klonen, bewerken en eruit leren voor eigen gebruik.

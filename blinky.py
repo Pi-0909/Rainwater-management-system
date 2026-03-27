@@ -1,3 +1,7 @@
+### Hallo! Dit is onze code voor de raspberry pi competitie 25-26, onze code is helemaal geschreven in Python met Engels dialoog vanwege TTO (TweeTalig-Onderwijs)
+### Hello! This is our code for the Dutch raspberry pi competition 25-26, our code is fully writen in python.
+
+
 import RPi.GPIO as GPIO
 import requests
 import time
